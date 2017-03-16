@@ -19,6 +19,9 @@ The repository contains all of the source code for an autonomous aerial vehicle 
 #### Classification
 #### Communication
 #### Health Monitoring
+### Software (UI)
+#### Interface App
+#### Server Backend
 ### Hardware (Main)
 #### Actuators
 #### Controllers
