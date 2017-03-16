@@ -1,6 +1,8 @@
-# Snake Patrol Drone
+# Autonomous Snake Patorl Aerial Vehicle
 
 ## Project Description
+
+The repository contains all of the source code for an autonomous aerial vehicle that is designed to find and identify snakes in desert-type environments. 
 
 ## TODO List: 
 - [ ] Define project goals.
