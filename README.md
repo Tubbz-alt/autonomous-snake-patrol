@@ -7,28 +7,18 @@
 - [ ] Add project description.
 - [ ] Update todo list with tasks. 
 
-## Controls 
+## Project Technology Stack and Descriptions
 
-### Localization
-
-### Path Planning
-
-### Flight Stability
-
-## Image Processing
-
-### Neural Network
-
-### Training Data
-
-### Classifier Test / Results
-
-## Hardware Design
-
-### Quadrotor
-
-### Camera
-
-### Control Board
-
-### CPU
+### Software (Main)
+#### Perception
+#### Localization
+#### Path Planning
+### Software (Auxiliary)
+#### Classification
+#### Communication
+#### Health Monitoring
+### Hardware (Main)
+#### Actuators
+#### Controllers
+#### Sensors
+#### Structures
