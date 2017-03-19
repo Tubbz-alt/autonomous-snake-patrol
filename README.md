@@ -13,10 +13,10 @@ The repository contains all of the source code for an autonomous aerial vehicle 
 
 ### Software (Main)
 #### Perception
+##### Classification
 #### Localization
 #### Path Planning
 ### Software (Auxiliary)
-#### Classification
 #### Communication
 #### Health Monitoring
 ### Software (UI)
