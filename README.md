@@ -9,6 +9,12 @@ The repository contains all of the source code for an autonomous aerial vehicle 
 - [ ] Add project description.
 - [ ] Update todo list with tasks. 
 
+## Project Objectives
+1. Develop a quadrotor flight control software and hardware stack that allows for the full control of the UAV platform.
+  1. Control inputs shall be Thrust, Pitch Velocity, Roll Velocity, Yaw Velocity {U1, U2, U3, U4}.
+2. Develop a path planning algorithm to search a specified area.
+3. Develop an image classification feature set to identify snakes in the specified region.
+
 ## Project Technology Stack and Descriptions
 
 ### Software (Main)
