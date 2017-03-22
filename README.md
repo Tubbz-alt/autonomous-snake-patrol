@@ -17,6 +17,8 @@ The repository contains all of the source code for an autonomous aerial vehicle 
 4. Develop a system for autonomous docking and charging.
 5. Communicate with a server to push patrol data payload.
 6. Communicate with user(s) via clean UI and backend processing.
+7. Develop web application.
+8. Develop mobile application.
 
 ## Project Technology Stack and Descriptions
 
