@@ -20,6 +20,15 @@ The repository contains all of the source code for an autonomous aerial vehicle 
 7. Develop web application.
 8. Develop mobile application.
 
+### Project Assignments
+- Flight Controls - @Matt
+- Simulation Environment - @Scott
+- Docking and Charging, Server Communitcation - @Alex
+- Web and Mobile Interface Applications - @Matt
+
+### Deliverable Due Dates:
+- Create deliverable list, assignment, and due dates.
+
 ## Project Technology Stack and Descriptions
 
 ### Software (Main)
