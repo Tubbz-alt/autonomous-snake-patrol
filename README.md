@@ -22,6 +22,7 @@ The repository contains all of the source code for an autonomous aerial vehicle 
 
 ### Project Assignments
 - Flight Controls - @Matt
+   - Use LQG (Kalman + LQR) Controller
 - Simulation Environment - @Scott
 - Docking and Charging, Server Communitcation - @Alex
 - Web and Mobile Interface Applications - @Matt
